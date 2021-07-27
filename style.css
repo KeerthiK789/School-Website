@@ -1,0 +1,12 @@
+#marquee{
+    font-size: 22px;
+    color: crimson;
+    font-variant:small-caps;
+    font-family:sans;
+    font-weight:500;
+    background-color:beige;
+}
+
+#details h5{
+    color: cornflowerblue;
+}
