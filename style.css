@@ -1,3 +1,8 @@
+body{
+text-align: right;
+    align-content: center;
+}
+
 #marquee{
     font-size: 22px;
     color: crimson;
@@ -9,4 +14,16 @@
 
 #details h5{
     color: cornflowerblue;
+}
+
+.campus1 p{
+    font-size: 20px;
+}
+
+.container{
+    text-align: center; 
+}
+
+.campus_imgs{
+    text-align:center;
 }
